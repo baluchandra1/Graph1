@@ -1,8 +1,8 @@
 # This is a sample Python script.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
+'''Graph plotting code for functions.
+XY plot
+X axis range in integers'''
 
 import matplotlib.pyplot as plt
 #from matplotlib import rc
